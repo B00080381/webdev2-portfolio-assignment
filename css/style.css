@@ -1,0 +1,101 @@
+@charset "UTF-8";
+/* CSS Document */
+
+	body{
+	background-color:brown;
+	text-align:center;
+}
+
+h1{
+	text-align:center;
+}
+
+	#header{
+	background-color:#87CEEB;
+
+	width:100%;
+	height:auto;
+	border:solid;
+	text-align: center;
+}
+	nav{
+	border:solid;
+	text-decoration:none;
+	background-color:#A2A0EA;
+	text-align:center;
+}
+
+	#footer{
+	background-color:#87CEEB;
+	position:fixed; bottom:0px;
+	width:100%;
+	height:4%;
+}
+	.container{
+	background-color:#C0C0C0;
+	display:inline-block;
+	width:100%;
+	border:solid;
+	
+}
+	#pages{
+	text-decoration:none;
+}
+
+	.profile{
+	border-radius:25%;
+}
+
+	.resize{
+	width:200px;
+	height:auto;
+}
+
+.w2-yellow{
+	column-count:2;
+}
+
+.card{
+	width:600px;
+	height:600px;
+}
+	  
+#one4all{
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+}
+	  
+#carp{
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+}
+
+
+.w2-blue{
+	column-count:2;
+}
+	  
+#advice{
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+}
+	  
+#poster{
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+}
+
+.photo{
+		  max-width:600px;
+}
+	  
+.w2-green{
+		column-count:2;
+		padding-left:40px;
+}
+	  
+.w2-red{
+		column-count:2;
+		padding-left:40px;
+}
+	  
+p{
+		  text-align: center;
+		  font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace"
+}
